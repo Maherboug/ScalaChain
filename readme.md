@@ -108,6 +108,8 @@ python indexerAPI.py
 
 ## License
 
+## References
+For a detailed overview of the project, watch our introduction video on YouTube: https://youtu.be/MBrqmBnGelI
 
 ## Acknowledgments
 
