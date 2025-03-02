@@ -1,8 +1,8 @@
-# ScalaChain: A Scalable Blockchain Framework with Enhanced Storage and Querying
+# ScalaChain: A Scalable Blockchain System with Enhanced Storage and Querying
 
 ## Overview
 
- **ScalaChain** is a Layer 2 solution designed to address the limitations of traditional blockchain systems in storage scalability and data querying. It decouples storage services from blockchain nodes, enabling efficient, secure, and decentralized data management. By combining on-chain and off-chain storage strategies, ScalaChain optimizes storage while maintaining the integrity and accessibility of blockchain data.
+ **ScalaChain** is a Blockchain solution designed to address the limitations of traditional blockchain systems in storage scalability and data querying. It decouples storage services from blockchain nodes, enabling efficient, secure, and decentralized data management. By combining on-chain and off-chain storage strategies, ScalaChain optimizes storage while maintaining the integrity and accessibility of blockchain data.
 
 
 
@@ -109,7 +109,7 @@ python indexerAPI.py
 ## License
 
 ## References
-For a detailed overview of the project, watch our introduction video on YouTube: https://youtu.be/MBrqmBnGelI
+For a detailed overview of the project, watch our introduction video on YouTube: https://youtu.be/sM5Q5iGYiOA
 
 ## Acknowledgments
 
